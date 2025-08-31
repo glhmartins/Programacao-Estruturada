@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695735757 source:c:\users\lauro\onedrive\documentos\codeblocks\tadfilavetor\fila.c
+	"Fila.h"
+
+1695739644 c:\users\lauro\onedrive\documentos\codeblocks\tadfilavetor\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1695739749 source:c:\users\lauro\onedrive\documentos\codeblocks\tadfilavetor\main.c
+	"Fila.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695742461 source:c:\users\lauro\onedrive\documentos\codeblocks\calculadorapersistentecompilha\pilha.c
+	"Pilha.h"
+
+1695742461 c:\users\lauro\onedrive\documentos\codeblocks\calculadorapersistentecompilha\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1695742543 source:c:\users\lauro\onedrive\documentos\codeblocks\calculadorapersistentecompilha\main.c
+	"Pilha.h"
+	"Pilha.h"
+

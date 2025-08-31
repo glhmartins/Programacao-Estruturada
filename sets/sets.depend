@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699052847 source:c:\users\lauro\onedrive\documentos\codeblocks\sets\main.c
+	"sets.h"
+
+1699053003 c:\users\lauro\onedrive\documentos\codeblocks\sets\sets.h
+	<stdio.h>
+	<stdlib.h>
+
+1699052884 source:c:\users\lauro\onedrive\documentos\codeblocks\sets\sets.c
+	"sets.h"
+
